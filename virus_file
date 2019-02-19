@@ -1,0 +1,5 @@
+#!/bin/bash
+cd ~/Desktop
+touch virus_file
+echo "first command bash" >> virus_file
+open virus_file
